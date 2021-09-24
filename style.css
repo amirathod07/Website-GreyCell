@@ -1,0 +1,17 @@
+.btn-outline-warning{
+    color:  black;
+}
+.bar{
+    
+    background-color:blueviolet;
+    color:  white;
+    text-align: center;
+    padding: 150px;
+    
+}
+.foo{
+    background-color: blue;
+    color: white;
+    display: flex;
+  
+}
